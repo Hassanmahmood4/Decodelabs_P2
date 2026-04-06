@@ -2,6 +2,12 @@
 :::
 Backend API Development — Internship Project (DecodeLabs)
 
+![Node.js](https://img.shields.io/badge/Node.js-18.x-green)
+![Express.js](https://img.shields.io/badge/Express.js-Framework-black)
+![API](https://img.shields.io/badge/API-RESTful-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Internship](https://img.shields.io/badge/Internship-DecodeLabs-blueviolet)
+
 Overview
 
 This project is part of the Industrial Training Kit (Batch 2026) by DecodeLabs. The objective is to design and implement a RESTful Backend API that handles application logic, processes user input, and communicates structured responses.
